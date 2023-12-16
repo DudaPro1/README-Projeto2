@@ -17,14 +17,14 @@ No nosso site, você encontrará uma ótima página inicial toda caracterizada d
 
 Trocar as imagens
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) 
-
-![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Pág 1](https://github.com/DudaPro1/README-Projeto2/assets/153873210/18878e6e-cb98-484c-8578-184b09a3df55)
+![image](https://github.com/DudaPro1/README-Projeto2/assets/153873210/7b633911-1cda-47a8-bee0-329ddae13ba2)
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![cap mob](https://github.com/DudaPro1/README-Projeto2/assets/153873210/8003635c-9a9a-4174-9db2-860ebadf2172)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![img mob](https://github.com/DudaPro1/README-Projeto2/assets/153873210/3e727cd7-e113-4fd9-ab33-d12c653811f1)
+
 
 # Descrição da interatividade do site
 ## Página inicial
