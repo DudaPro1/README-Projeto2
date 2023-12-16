@@ -8,7 +8,7 @@ Desenvolvimento Frontend da empresa XYZ. Este desafio tem o objetivo de avaliar
 suas habilidades técnicas e sua capacidade de criar interfaces interativas e atraentes.
 Vamos criar o site de uma clínica médica!
 
-https://joaovitorspeliernunes.github.io/PediCare/    Trocar aqui pelo nosso link!!!!!
+https://joaovitorspeliernunes.github.io/PediCare/
 
 
 # Descrição
